@@ -1,7 +1,7 @@
 # Summer_Analytics_Assignment1
 Assignment contains an interesting set of questions to get a basic understanding of pandas and data visualization libraries.
 
-# Cars Dataset Analysis Assignment
+
 ## Overview
 This project analyzes the Cars.csv dataset using Python and Pandas. The dataset contains car details like mpg, horsepower, weight, etc., across various years and origins. The assignment includes tasks to manipulate and analyze the data, such as calculating metrics, filtering, and aggregating.
 Dataset
