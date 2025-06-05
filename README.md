@@ -44,7 +44,7 @@ Clone the repository: git clone <https://github.com/Kammara-Kaveri/Summer_Analyt
 
 Place Cars.csv in the project directory.
 
-Run the Python script: python cars_analysis.py
+Run the Python script: python Assignment_1.ipynb
 
 Ensure all tasks are in a single script or run each task’s code individually.
 
@@ -55,4 +55,4 @@ Ensure all tasks are in a single script or run each task’s code individually.
 
 **Assignment_1.py**: Python script with all tasks (create this file with the code from each task)
 
-**README.md**: This file
+**README.md**: Overall
